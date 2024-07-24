@@ -48,7 +48,7 @@ Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ
 
     ABOUT_TXT = """<b>╭───────────⍟
 • ᴍy ɴᴀᴍᴇ : {}
-• ᴜᴘᴅᴀᴛᴇꜱ : <a href=https://t.me/moviesworldupdates>HaRsHiT</a>
+• ᴜᴘᴅᴀᴛᴇꜱ : <a>href=https://t.me/moviesworldupdates>HaRsHiT</a>
 ╰───────────────⍟ """
 
     HELP_TXT = """
@@ -81,7 +81,7 @@ Exᴀᴍᴩʟᴇ: <code> /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 """
 
     PROGRESS_BAR = """<b>\n
-╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━@harshit_g91━━>
+╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━<a>href=https://t.me/moviesworldupdates>HaRsHiT</a>━━>
 🗃️ sɪᴢᴇ: {1} | {2}
 ⏳️ ᴅᴏɴᴇ : {0}%
 🚀 sᴘᴇᴇᴅ: {3}/s
