@@ -81,7 +81,7 @@ Exᴀᴍᴩʟᴇ: <code> /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 """
 
     PROGRESS_BAR = """<b>\n
-╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━<a>href=https://t.me/moviesworldupdates>HaRsHiT</a>━━>
+╭━━━━❰ 🅷︎🅰︎🆁︎🆂︎🅷︎🅸︎🆃︎ ❱━━>
 🗃️ sɪᴢᴇ: {1} | {2}
 ⏳️ ᴅᴏɴᴇ : {0}%
 🚀 sᴘᴇᴇᴅ: {3}/s
