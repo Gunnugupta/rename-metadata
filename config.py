@@ -48,7 +48,7 @@ Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ
 
     ABOUT_TXT = """<b>╭───────────⍟
 • ᴍy ɴᴀᴍᴇ : {}
-• ᴜᴘᴅᴀᴛᴇꜱ : <a>href=https://t.me/moviesworldupdates>HaRsHiT</a>
+• ᴜᴘᴅᴀᴛᴇꜱ : <a href=https://t.me/moviesworldupdates>HaRsHiT</a>
 ╰───────────────⍟ """
 
     HELP_TXT = """
