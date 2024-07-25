@@ -118,7 +118,9 @@ def add_prefix_suffix(input_string, prefix='', suffix=''):
 
 
     else:
-        return input_string
+        
+    
+return input_string
         async def react_msg(client, message):
     emojis = [
         "👍",
