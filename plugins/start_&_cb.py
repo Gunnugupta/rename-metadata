@@ -6,6 +6,7 @@ from config import Config, Txt
 import humanize
 from time import sleep
 from utils import react_msg
+import random
 
 @Client.on_message(filters.private & filters.command("start"))
 async def start(client, message):
