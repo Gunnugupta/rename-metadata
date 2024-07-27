@@ -1,5 +1,4 @@
 pyrogram
-git+https://github.com/vpcreatz/pyrofork-adv
 TgCrypto
 motor
 dnspython
