@@ -5,10 +5,16 @@ from helper.database import db
 from config import Config, Txt
 import humanize
 from time import sleep
+import random
+from utils.import react_msg
 
 
 @Client.on_message(filters.private & filters.command("start"))
 async def start(client, message):
+    try:
+        await react_msg(client, message)
+    except:
+        pass
     if message.from_user.id in Config.BANNED_USERS:
         await message.reply_text("Sorry, You are banned.")
         return
