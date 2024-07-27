@@ -119,3 +119,43 @@ def add_prefix_suffix(input_string, prefix='', suffix=''):
 
     else:
         return input_string
+
+async def react_msg(client, message):
+    emojis = [
+        "👍",
+        "❤",
+        "🔥",
+        "🥰",
+        "👏",
+        "😁",
+        "🤔",
+        "😱",
+        "🎉",
+        "🤩",
+        "🤡",
+        "😍",
+        "❤‍🔥",
+        "🌚",
+        "🤣",
+        "⚡",
+        "🏆",
+        "🤨",
+        "😐",
+        "😈",
+        "🤓",
+        "👻",
+        "😇",
+        "🤝",
+        "🤗",
+        "🫡",
+        "🎅",
+        "🎄",
+        "🆒",
+        "😘",
+        "😎",
+    ]
+    rnd_emoji = random.choice(emojis)
+    await client.send_reaction(
+        chat_id=message.chat.id, message_id=message.id, emoji=rnd_emoji, big=True
+    )
+    return
